@@ -122,8 +122,3 @@ Acknowledgements:
 
 ---
 
-If you'd like, I can:
-- Turn this README into a one-page quickstart with terminal commands for local setup.
-- Add a minimal `requirements.txt` and a small Python script that extracts the Gradio app out of the notebook so it's easier to run as a script.
-
-Tell me which one you'd prefer and I'll add it.
