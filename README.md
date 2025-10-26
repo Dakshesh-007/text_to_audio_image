@@ -112,7 +112,6 @@ This project is an experimental notebook — if you want to contribute:
 ## License & credits
 
 - This repository is experimental. Use models and weights in accordance with their licenses (Hugging Face/diffusers, Audiocraft, etc.).
-- If you'd like a license added (MIT / Apache-2.0), tell me and I'll add one.
 
 Acknowledgements:
 - Hugging Face diffusers team — Stable Diffusion pipeline
